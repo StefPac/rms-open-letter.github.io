@@ -912,6 +912,7 @@ Signed,
 1. Stefan Bethke
 1. Stefan Crain
 1. Stefanie Schirmer
+1. Stefano Pacifico
 1. Stemy (amateur independant self-host)
 1. Stephan Lachnit (Debian Maintainer)
 1. Stephane Graber (LXC, former Ubuntu Technical Board member)
